@@ -1,4 +1,4 @@
-# WebRTC [Chrome Extensions](https://github.com/muaz-khan/Chrome-Extensions)
+# Web Media Tablet [Chrome Extensions](https://github.com/muaz-khan/Chrome-Extensions)
 
 | Description        | Download           | Install |
 | ------------- |-------------|-------------|
